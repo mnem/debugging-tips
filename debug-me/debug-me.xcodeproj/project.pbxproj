@@ -60,13 +60,13 @@
 			children = (
 				BB9D0A1E1CB46F0600563173 /* AppDelegate.h */,
 				BB9D0A1F1CB46F0600563173 /* AppDelegate.m */,
+				BB9D0A271CB46F0600563173 /* Assets.xcassets */,
+				BB9D0A2C1CB46F0600563173 /* Info.plist */,
+				BB9D0A291CB46F0600563173 /* LaunchScreen.storyboard */,
+				BB9D0A241CB46F0600563173 /* Main.storyboard */,
+				BB9D0A1B1CB46F0600563173 /* Supporting Files */,
 				BB9D0A211CB46F0600563173 /* ViewController.h */,
 				BB9D0A221CB46F0600563173 /* ViewController.m */,
-				BB9D0A241CB46F0600563173 /* Main.storyboard */,
-				BB9D0A271CB46F0600563173 /* Assets.xcassets */,
-				BB9D0A291CB46F0600563173 /* LaunchScreen.storyboard */,
-				BB9D0A2C1CB46F0600563173 /* Info.plist */,
-				BB9D0A1B1CB46F0600563173 /* Supporting Files */,
 			);
 			path = "debug-me";
 			sourceTree = "<group>";
